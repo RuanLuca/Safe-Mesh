@@ -28,4 +28,5 @@ O script principal contém:
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/RuanLuca/Safe-Mesh.git
+   cd Safe-Mesh
