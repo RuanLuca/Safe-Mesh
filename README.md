@@ -1,4 +1,4 @@
-# 🛡️ LocalSeguro - Aplicativo de Cadastro de Locais Seguros
+# 🛡️ Safe Mesh - Aplicativo de Cadastro de Locais Seguros
 
 Este é um aplicativo simples em Python que permite cadastrar, visualizar locais seguros e simular chamadas de emergência. Ele pode ser útil em situações de risco, emergências comunitárias ou como base para projetos maiores de segurança urbana.
 
